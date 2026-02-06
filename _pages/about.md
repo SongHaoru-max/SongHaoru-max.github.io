@@ -47,8 +47,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, PhD candidate, Department of Chemistry (Analytical Chemistry), Fudan University, Shanghai, China. 
+- *2019.09 - 2023.06*, B.S. in Chemistry (Chemical Biology), School of Chemistry and Chemical Engineering, Nanjing University, Nanjing, China.
+- *2016.08 - 2019.06*, Changxu Program, High School Affiliated to Northwest Normal University, Lanzhou, China.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
