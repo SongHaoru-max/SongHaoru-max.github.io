@@ -35,11 +35,12 @@ Hi there! 👋😄 I am <strong> Haoru Song</strong> (Chinese name: <strong>宋�
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications & Manuscripts
-<strong>🥇 First-author Publications</strong>
+<strong>🥇**First-author Publications**</strong>
 
 Still trying hard...🔴🟠🟡🟢
 
-<strong>🧑‍🤝‍🧑 Co-author Publications</strong>
+
+<strong>🧑‍🤝‍🧑**Co-author Publications**</strong>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JACS 2025</div><img src='images/ja5c08065_0007.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
