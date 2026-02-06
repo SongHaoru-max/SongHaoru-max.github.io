@@ -21,9 +21,9 @@ Hi there! 👋😄 I am <strong> Haoru Song</strong> (Chinese name: <strong>宋�
 
 <strong> [Research Interest]</strong>
 
-1. <strong>*AI-assisted statistical analysis*</strong>: LLM-enabled QC and quantitative analysis pipelines for quantitative proteomics data.
-2. <strong>*Deep target deconvolution methods and multi-omics integration*</strong>: Deep deconvolution of PPI/Protein-small molecule interaction networks in TPP with multi-omics validation.
-3. <strong>*Metabolic Glycoengineering (MGE): Help developing new MGE probe and new applications.
+1. <strong>*AI-assisted statistical analysis* </strong>: LLM-enabled QC and quantitative analysis pipelines for quantitative proteomics data.
+2. <strong>*Deep target deconvolution methods and multi-omics integration* </strong>: Deep deconvolution of PPI/Protein-small molecule interaction networks in TPP with multi-omics validation.
+3. <strong>*Metabolic Glycoengineering (MGE)* </strong>: Help developing new MGE probe and new applications.
 
 <strong>Email:</strong>
 
