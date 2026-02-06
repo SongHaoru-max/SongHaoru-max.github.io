@@ -26,7 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Publications & Manuscripts
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,11 +49,16 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - *2023.09 - now*, PhD candidate, Department of Chemistry (Analytical Chemistry), Fudan University, Shanghai, China. 
 - *2019.09 - 2023.06*, B.S. in Chemistry (Chemical Biology), School of Chemistry and Chemical Engineering, Nanjing University, Nanjing, China.
-- *2016.08 - 2019.06*, Changxu Program, High School Affiliated to Northwest Normal University, Lanzhou, China.
+- *2016.08 - 2019.06*, Changxu Program, High School Attached to Northwest Normal University, Lanzhou, China.
 
-# 💬 Invited Talks
+# 💬 Academic Conferences/Presentations
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 👨‍🏫 Teaching Experiences
+- *2024.02-2024.07*, Teaching Assistant for Analytical Chemistry A II and Analytical Chemistry A II (H), Department of Chemistry, Fudan University.
+
+# 💻 Skills
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 📂 Projects & Funding
