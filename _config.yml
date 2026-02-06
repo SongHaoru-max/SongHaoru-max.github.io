@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haoru Song (宋昊儒)"
+  name             : "Haoru Song<br>(宋昊儒)"
   avatar           : "images/profile.png"
   bio              : "PhD candidate at Fudan University, Chemical Proteomics & Bioinformatics"
   location         : "Shanghai, China"
