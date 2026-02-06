@@ -97,8 +97,8 @@ Shiyun Ma, Yuying Liang, **Haoru Song**, Ting Wang, et al.
 - *2016.08 - 2019.06*, Changxu Program, High School Attached to Northwest Normal University, Lanzhou, China.
 
 # 💬 Academic Conferences/Presentations
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.03*, The Second Multi-Omics Research and Clinical Applicaton Seminar, Shanghai, China *(Student attendee)*.
+<strong> Note:</strong> Conference papers, posters, or presentation materials are provided when available.
 
 # 👨‍🏫 Teaching Experiences
 - *2024.02-2024.07*, Teaching Assistant for Analytical Chemistry A II and Analytical Chemistry A II (H), Department of Chemistry, Fudan University.
