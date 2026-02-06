@@ -83,8 +83,8 @@ Shiyun Ma, Yuying Liang, **Haoru Song**, Ting Wang, et al.
 </div>
 </div>
 
-**Others**
-- Xuejiao Liu, Yue Meng, Bin Fu, **Haoru Song**, et al. [GlycoPro: A High-Throughput Sample-Processing Platform for Multi-Glycosylation-Omics Analysis](https://doi.org/10.1016/j.eng.2025.01.011), Engineering, **2025**, 10.1016/j.eng.2025.01.011
+<strong>Others</strong>
+- Xuejiao Liu, Yue Meng, Bin Fu, **Haoru Song**, et al. [GlycoPro: A High-Throughput Sample-Processing Platform for Multi-Glycosylation-Omics Analysis](https://doi.org/10.1016/j.eng.2025.01.011), Engineering, <strong>2025</strong>, 10.1016/j.eng.2025.01.011
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
