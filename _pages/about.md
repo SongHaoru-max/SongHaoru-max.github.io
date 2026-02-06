@@ -27,7 +27,7 @@ Hi there! 👋😄 I am <strong> Haoru Song</strong> (Chinese name: <strong>宋�
 <strong>Email:</strong>
 
 📧 Personal email: <a href="mailto:songhaoru233@gmail.com">songhaoru233@gmail.com</a><br>
-🎓 University email: <a href="mailto:hrsong23@m.fudan.edu.cn">hrsong23@fudan.edu.cn</a>
+🎓 University email: <a href="mailto:hrsong23@m.fudan.edu.cn">hrsong23@m.fudan.edu.cn</a>
 
 
 # 🔥 News
