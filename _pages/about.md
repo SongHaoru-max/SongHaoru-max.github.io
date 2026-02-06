@@ -35,16 +35,15 @@ Hi there! 👋😄 I am <strong> Haoru Song</strong> (Chinese name: <strong>宋�
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications & Manuscripts
-##🥇 First-author Publications
+<strong>🥇 First-author Publications</strong>
 
 Still trying hard...🔴🟠🟡🟢
 
-##🧑‍🤝‍🧑 Co-author Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<strong>🧑‍🤝‍🧑 Co-author Publications</strong>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JACS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A Chemoproteomic Approach for System-Wide and Site-Specific Uncovering of Functional Protein N-Glycosylation](https://pubs.acs.org/doi/pdf/10.1021/jacs.5c08065?ref=article_openPDF)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
