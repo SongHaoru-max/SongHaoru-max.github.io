@@ -32,8 +32,8 @@ Hi there! 👋😄 I am <strong> Haoru Song</strong> (Chinese name: <strong>宋�
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Our work "Living Cell Surfacome Lysine Footprinting (LiFT) Captures Virus-Induced Conformational Dynamics and Uncovers Influenza A Virus Host Factors" has been accepted by<strong> *J.Am.Chem.Soc.</strong>*!! 
-- *2025.08*: &nbsp;🎉🎉 Our work "Ultrafast Tyrosinase-Mediated Biotinylation of Living Cell Surface Analysis Reveals Novel Cell Surface Proteins Responsible for Influenza A Virus Entry" has been accepted by <strong>*J.Am.Chem.Soc.</strong>*!!
+- *2025.12*: &nbsp;🎉🎉 Our work "Living Cell Surfacome Lysine Footprinting (LiFT) Captures Virus-Induced Conformational Dynamics and Uncovers Influenza A Virus Host Factors" has been accepted by<strong> *J.Am.Chem.Soc.*</strong>!! 
+- *2025.08*: &nbsp;🎉🎉 Our work "Ultrafast Tyrosinase-Mediated Biotinylation of Living Cell Surface Analysis Reveals Novel Cell Surface Proteins Responsible for Influenza A Virus Entry" has been accepted by <strong>*J.Am.Chem.Soc.*</strong>!!
 - *2025.06*: &nbsp;🎉🎉 Our work "A Chemoproteomic Approach for System-Wide and Site-Specific Uncovering of Functional Protein N-Glycosylation" has been accepted by <strong>*J.Am.Chem.Soc.*</strong>!! 
 - *2025.01*: &nbsp;🎉🎉 Our work "GlycoPro: A High-Throughput Sample-Processing Platform for Multi-Glycosylation-Omics Analysis" has been accepted by <strong>*Engineering*</strong>!!
 
