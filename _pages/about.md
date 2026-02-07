@@ -94,7 +94,7 @@ Shiyun Ma, Yuying Liang, **Haoru Song**, Ting Wang, et al.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2023.09 - now*, PhD candidate, Department of Chemistry (Analytical Chemistry), Fudan University, Shanghai, China. 
+- *2023.09 - now*, Ph.D. candidate, Department of Chemistry (Analytical Chemistry), Fudan University, Shanghai, China. 
 - *2019.09 - 2023.06*, B.S. in Chemistry (Chemical Biology), School of Chemistry and Chemical Engineering, Nanjing University, Nanjing, China.
 - *2016.08 - 2019.06*, Changxu Program, High School Attached to Northwest Normal University, Lanzhou, China.
 
