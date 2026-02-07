@@ -104,8 +104,7 @@ Shiyun Ma, Yuying Liang, **Haoru Song**, Ting Wang, et al.
 <strong> Note:</strong> Conference papers, posters, or presentation materials are provided when available.
 
 # 👨‍🏫 Teaching Experiences
-- *2024.02-2024.07*, Teaching Assistant for Analytical Chemistry A II and Analytical Chemistry A II (H), Department of Chemistry, Fudan University.| [Powerpoint](https://drive.google.com/drive/folders/1zz2GFpPAo9aD8nOke5ZaqWHQkV49Q1C6?usp=drive_link) and | [Reference Answers to After-class Exercises](https://drive.google.com/drive/folders/1U99pqaiM6AK3-165ND4NXCIjM0KTUfDX?usp=drive_link)
-
+- *2024.02-2024.07*, Teaching Assistant for Analytical Chemistry A II and Analytical Chemistry A II (H), Department of Chemistry, Fudan University.[Powerpoint(https://drive.google.com/drive/folders/1zz2GFpPAo9aD8nOke5ZaqWHQkV49Q1C6?usp=drive_link)] and [Reference Answers to After-class Exercises(https://drive.google.com/drive/folders/1U99pqaiM6AK3-165ND4NXCIjM0KTUfDX?usp=drive_link)]
 # 💻 Skills
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
