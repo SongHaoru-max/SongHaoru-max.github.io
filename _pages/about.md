@@ -51,7 +51,7 @@ Still trying hard...🔴🟠🟡🟢
 
 [BrIS: Visualizing Internal Standards at the MS1 Level via Bromine Fingerprint for Sensitive and Robust Proteomics Quality Control](https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.1708018?saml_referrer)
 
-Guoli Wang, Shiyun Ma, **Haoru Song**, Yuying Liang, et al.
+Chenxin Li, Guoli Wang, Jiawei Fan, Bin Fu, **Haoru Song**, et al.
 
 [**Citation**](https://doi.org/10.1002/anie.1708018.) <strong>
 
