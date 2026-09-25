@@ -46,6 +46,20 @@ Still trying hard...🔴🟠🟡🟢
 
 
 <strong>🧑‍🤝‍🧑**Co-author Publications**</strong>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Angew 2026</div><img src='images/Angew-2026-BrIS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BrIS: Visualizing Internal Standards at the MS1 Level via Bromine Fingerprint for Sensitive and Robust Proteomics Quality Control](https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.1708018?saml_referrer)
+
+Guoli Wang, Shiyun Ma, **Haoru Song**, Yuying Liang, et al.
+
+[**Citation**](https://doi.org/10.1002/anie.1708018.) <strong>
+
+<strong>Contribution</strong>
+- Contributed to cell processing and culture, manuscript revision, and chemical structure drawing.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JACS 2025</div><img src='images/ja5c08065_0007.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
